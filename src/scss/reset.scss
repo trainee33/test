@@ -105,7 +105,7 @@ section {
 	display: block;
 }
 
-body {
+body * {
 	line-height: 1;
 }
 
@@ -288,7 +288,7 @@ button,
 input,
 select,
 textarea {
-	//color: #222;
+	color: #222;
 }
 
 ::-moz-selection {

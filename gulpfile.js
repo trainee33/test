@@ -73,7 +73,7 @@ const settings = {
 	offset: '30px',
 	mobileFirst: false,
 	container: {
-		maxWidth: '1326px',
+		maxWidth: '1270px',
 		fields: '30px'
 	},
 	breakPoints: {
